@@ -1,7 +1,9 @@
 # Exium's HTTPSPY
 ### The script creates a console which logs all game:HttpGets and requests.
 
-### Script:
+## Script:
 ```lua
 loadstring(game:HttpGet("https://exium.vercel.app/httpspy.lua"))()
 ```
+
+## How to protect your script against http spies (Coming soon)
